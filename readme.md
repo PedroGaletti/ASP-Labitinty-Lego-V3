@@ -1,0 +1,1 @@
+Neste projeto fiz a implementação da resolução para a descoberta do caminho perfeito, com a mão esquerda no desafio do labirinto asp.
